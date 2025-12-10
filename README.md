@@ -1,7 +1,7 @@
 # Static Website Hosting using AWS S3 and CloudFront 
 
 # Project Overview
-The prooject demostrates hosting a static website on AWS using Amazon S3 and CloudFront.
+The project demostrates hosting a static website on AWS using Amazon S3 and CloudFront.
 The website is built using HTML and CSS and deployed on AWS cloud services.
 
 # Technologies used
@@ -20,3 +20,4 @@ The website is built using HTML and CSS and deployed on AWS cloud services.
 
 # Outcome
 The static website was successfully hosted on AWS and is accessible globally using ClouFront,improving availability and performance.
+
