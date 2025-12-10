@@ -17,3 +17,6 @@ The website is built using HTML and CSS and deployed on AWS cloud services.
 *Configure bucket permissions to allow public read access.
 *Created a CloudFront distribution as the S3 origin.
 *Accessed the website using the CloudFront domain URL.
+
+# Outcome
+The static website was successfully hosted on AWS and is accessible globally using ClouFront,improving availability and performance.
